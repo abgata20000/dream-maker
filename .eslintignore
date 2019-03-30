@@ -1,0 +1,9 @@
+.gitignore
+.idea
+.nuxt
+.github
+node_modules
+coding
+app/assets
+app/static
+dist
