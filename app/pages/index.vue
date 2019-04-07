@@ -1,5 +1,5 @@
 <template lang="pug">
-  .container2
+  .container
     .drawing-area(ref="drawingArea")
       p(v-for="key in Object.keys(values)" :key="`p-${key}`")
         | {{ key }} :
