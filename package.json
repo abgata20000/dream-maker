@@ -35,6 +35,7 @@
     "consola": "^2.5.8",
     "cross-env": "^5.2.0",
     "html2canvas": "^1.0.0-alpha.12",
+    "lodash": "^4.17.11",
     "node-sass": "^4.11.0",
     "nuxt": "^2.4.0",
     "pug": "^2.0.3",
